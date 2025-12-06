@@ -1,16 +1,14 @@
-## Hi there 👋
+# 안녕하세요! 👋
+보증수표 같은 개발자, 이소예입니다.
 
-<!--
-**Isoye12/Isoye12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Projects
+| Name | Tech | Link |
+|------|------|------|
+| 우가(Uga) | React Native | 🔗 https://github.com/2nd-Narsha |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contact
+Email :  isoye126@naver.com
