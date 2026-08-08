@@ -1,14 +1,8 @@
-# 안녕하세요! 👋
-보증수표 같은 개발자, 이소예입니다.
+# Hello!
+I’m Soye, a developer who builds products from start to finish.
 
 ---
 
-### 🚀 Projects
-| Name | Tech | Link |
-|------|------|------|
-| 우가(Uga) | React Native | 🔗 https://github.com/2nd-Narsha |
-
----
-
-### 📫 Contact
+### Contact
 Email :  soyelee126@gmail.com
+LinkedIn : [Soye Lee LinkedIn](https://www.linkedin.com/in/soye-lee-a9442937b/)
