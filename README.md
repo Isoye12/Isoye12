@@ -11,4 +11,4 @@
 ---
 
 ### 📫 Contact
-Email :  isoye126@naver.com
+Email :  soyelee126@gmail.com
